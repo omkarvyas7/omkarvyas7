@@ -1,6 +1,6 @@
 ### Hi, I'm Omkar
 
-I'm an analytics professional. Most of my work is SQL and Excel, some Python, and a lot of figuring out why a number moved and who needs to fix it. I like turning messy operational data into a short list of things to change, with a dollar figure next to each.
+I'm an analytics professional. I spend most of my time in SQL and Excel, some in Python, and a lot of it figuring out why a number changed and who can fix it. What I enjoy most is taking messy operational data and boiling it down to a few changes worth making, each with a dollar value attached.
 
 All my projects live in one repo: **[Data Analytics Portfolio](https://github.com/omkarvyas7/Data-Analytics-Portfolio)**. A few to start with:
 
